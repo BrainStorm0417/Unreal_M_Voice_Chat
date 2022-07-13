@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UniversalVoiceChatPro.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\test333\Intermediate\Build\Win64\test333Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\test333\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Development\UniversalVoiceChatPro\Module.UniversalVoiceChatPro.cpp.obj"
+"D:\Unreal Projects\test333\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Development\UniversalVoiceChatPro\Module.UniversalVoiceChatPro.gen.cpp.obj"
+"D:\Unreal Projects\test333\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Development\UniversalVoiceChatPro\Default.rc2.res"
+/OUT:"D:\Unreal Projects\test333\Plugins\UniversalVoiceChatPro\Intermediate\Build\Win64\UE4Editor\Development\UniversalVoiceChatPro\UE4Editor-UniversalVoiceChatPro.lib"
+/INCLUDE:IMPLEMENT_MODULE_UniversalVoiceChatPro
